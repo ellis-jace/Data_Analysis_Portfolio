@@ -9,7 +9,17 @@ Synthetic point-of-sale dataset modeled after Toast POS data.
 Skills used:
 - Data cleaning
 - Exploratory analysis
-- Visualization
+- Visualization (ggplot2 in RStudio)
 
 Repository:
 https://github.com/ellis-jace/Faux-Sales-Analysis
+
+### Pitcher Data Visualization and Analysis
+Analyzed over 70 rows of pitch-level baseball data using Python to compute summary statistics and pitch distributions. 
+
+Skills used: 
+- Strike-zone visualization using PyBaseball
+- Exploratory analysis
+
+Repository:
+https://github.com/ellis-jace/Pitcher_Data_Visualization 
