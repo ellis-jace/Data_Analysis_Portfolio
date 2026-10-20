@@ -14,16 +14,6 @@ Skills used:
 
 Repository: https://github.com/ellis-jace/Food-Inspection-Data-Analysis
 
-### Synthetic Sales Data Analysis
-Synthetic point-of-sale dataset modeled after Toast POS data.
-
-Skills used:
-- Data cleaning
-- Exploratory analysis
-- Visualization (ggplot2 in RStudio)
-
-Repository: https://github.com/ellis-jace/Faux-Sales-Analysis
-
 ### Pitcher Data Visualization and Analysis
 Analyzed over 70 rows of pitch-level baseball data using Python to compute summary statistics and pitch distributions. 
 
